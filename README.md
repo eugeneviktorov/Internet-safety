@@ -4,7 +4,9 @@
 
 Последнее обновление: 14.02.2026
 
-<a href="/UPDATES/README.md">📄 Журнал изменений</a>
+- <a href="/UPDATES/README.md">📄 Журнал изменений</a>
+
+- <a href="https://t.me/pswd1">💬 Telegram Канал</a>
 
 <br />
 
